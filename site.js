@@ -95,7 +95,7 @@ const vue_app = Vue.createApp({
             timeText(minutes) {
                   let hours = Math.floor(minutes / 60);
                   let mins = minutes % 60;
-                  return hours + ' hours, ' + mins + ' minutes';
+                  return hours + 'h ' + mins + 'm';
             }
       }
 })
