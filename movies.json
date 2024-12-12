@@ -68,6 +68,48 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Good Will Hunting",
+            "iscore": 8.3,
+            "rating": "R",
+            "runtime": 126,
+            "released": [1997, 12, 5],
+            "country": "USA",
+            "posters": ["img/good will hunting.png", "img/goodwill3.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0119217/",
+            "website": "https://www.rottentomatoes.com/m/good_will_hunting",
+            "likes": 1205,
+            "dislikes": 142,
+            "posterindex": 0
+      },
+      {
+            "title": "National Lampoon's Christmas Vacation",
+            "iscore": 7.5,
+            "rating": "PG-13",
+            "runtime": 97,
+            "released": [1989, 12, 1],
+            "country": "USA",
+            "posters": ["img/lampoons1.jpg", "img/lampoons2.webp", "img/lampoons3.webp"],
+            "imdb": "https://www.imdb.com/title/tt0097958/",
+            "website": "https://www.rottentomatoes.com/m/national_lampoons_christmas_vacation",
+            "likes": 928,
+            "dislikes": 307,
+            "posterindex": 0
+      },
+      {
+            "title": "The Sandlot",
+            "iscore": 7.8,
+            "rating": "PG",
+            "runtime": 101,
+            "released": [1993, 4, 7],
+            "country": "USA",
+            "posters": ["img/sandlot1.jpg", "img/sandlot2.webp", "img/sandlot3.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0108037/",
+            "website": "https://www.rottentomatoes.com/m/sandlot",
+            "likes": 621,
+            "dislikes": 385,
+            "posterindex": 0
       }
 
 ]
